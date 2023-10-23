@@ -1,3 +1,7 @@
 export function SideBar() {
-  // Complete aqui
+  return(
+    <div>
+      
+    </div>
+  );
 }
